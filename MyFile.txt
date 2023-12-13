@@ -4,5 +4,10 @@ changes did in file
 i am going to restore the file
 Again Changes done
 sokethig changes
+<<<<<<< HEAD
 changes done in working derectory
 adding wishlist module from local
+=======
+this is changing code from git
+adding new module from git hub
+>>>>>>> a35c3752def14672cc849053f9ab4f14a2835712
